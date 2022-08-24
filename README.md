@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chiran@engineer.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chiranwalisundara/](https://www.linkedin.com/in/chiranwalisundara/)
+- 📄 Know about my experiences [linkedin.com/in/chiranwalisundara/](https://www.linkedin.com/in/chiranwalisundara/)
 
 - ⚡ Fun fact **I once owned 21 cats 🐈‍⬛ 🐈**
 
