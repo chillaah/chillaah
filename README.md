@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **space robotic applications 👾**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/chillaah](https://www.github.com/chillaah)
+- 👨‍💻 All of my projects are available at [chillaah](https://www.github.com/chillaah)
 
 - 📫 How to reach me **chiran@engineer.com**
 
-- 📄 Know about my experiences [linkedin.com/in/chiranwalisundara/](https://www.linkedin.com/in/chiranwalisundara/)
+- 📄 Know about my experiences [Chiran Walisundara](https://www.linkedin.com/in/chiranwalisundara/)
 
 - ⚡ Fun fact **I once owned 21 cats 🐈‍⬛ 🐈**
 
