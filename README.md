@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **developing a lunar rover prototype 🤖🛠️**
 
-- 👯 I’m looking to collaborate on **space robotic applications 👾**
+- 👯 I’m looking to collaborate on **space robotic applications 🚀**
 
-- 👨‍💻 All of my projects are available at [chillaah](https://www.github.com/chillaah)
+- 👨‍💻 All of my projects are available at [chillaah](https://github.com/chillaah?tab=repositories)
 
 - 📫 How to reach me **chiran@engineer.com**
 
