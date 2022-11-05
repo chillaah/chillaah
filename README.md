@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **robotics applications 🚀**
 
-- 👨‍💻 All of my projects are available at [chillaah](https://github.com/chillaah?tab=repositories)
+- 👨‍💻 Most of my projects are available at [chillaah](https://github.com/chillaah?tab=repositories)
 
 - 📫 How to reach me **chiran@engineer.com**
 
