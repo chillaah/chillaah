@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Chiran 👨🏾‍🚀</h1>
-<h3 align="center">A passionate computer and software systems student 👾</h3>
+<h3 align="center">Computer & Software Systems Student 👾</h3>
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillaah&label=Profile%20views&color=0e75b6&style=flat" alt="chillaah" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/chiranw/)
 
-- ⚡ Fun fact **I once owned 21 cats 🐈‍⬛ 🐈**
+- 🐈‍⬛ Fun fact **I once owned 21 cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
