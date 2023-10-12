@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋🏽, I'm Chiran 👨🏾‍🚀</h1>
-<h3 align="center">A passionate mechatronics engineering student 👾</h3>
+<h3 align="center">A passionate computer and software systems student 👾</h3>
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillaah&label=Profile%20views&color=0e75b6&style=flat" alt="chillaah" /> </p>
 
 <img align = "right" alt = "Coding" width = "420" src = "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 &nbsp;
 
-- 👯 I’m looking to collaborate on **robotics applications 🚀**
+<!-- - 👯 I’m looking to collaborate on **robotics applications 🚀** -->
 
 - 👨‍💻 Most of my projects are available at [chillaah](https://github.com/chillaah?tab=repositories)
 
 - 📫 How to reach me **chiran@engineer.com**
 
-- 📄 Know about my experiences [Chiran Walisundara](https://www.linkedin.com/in/chiranwalisundara/)
+- 📄 Know about my experiences [Chiran Walisundara](https://www.linkedin.com/in/chiranw/)
 
 - ⚡ Fun fact **I once owned 21 cats 🐈‍⬛ 🐈**
 
