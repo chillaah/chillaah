@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏽, I'm Chiran 👨🏾‍🚀</h1>
-<h3 align="center">Computer & Software Systems Student 👾</h3>
+<h1 align="center">Hi, I'm Chiran 👨🏾‍🚀</h1>
+<h3 align="center">Computer & Software Systems Student</h3>
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillaah&label=Profile%20views&color=0e75b6&style=flat" alt="chillaah" /> </p>
 
