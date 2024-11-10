@@ -3,7 +3,7 @@
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chillaah&label=Profile%20views&color=0e75b6&style=flat" alt="chillaah" /> </p>
 
-<img align = "right" alt = "Coding" width = "420" src = "https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html">
+<img align = "right" alt = "Coding" width = "420" src = "[https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html](https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html?embed=true)">
 &nbsp;
 <!-- - 👯 I’m looking to collaborate on **robotics applications 🚀** -->
 
